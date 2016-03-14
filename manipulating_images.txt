@@ -1,0 +1,4 @@
+Working with ocropy
+-------------------
+
+You'll need to resize your image to work with ocropy.  For this go to open with (right click) and choose preview.  From there click on edit image and change the ppi to 300 (assuming it's not already).
